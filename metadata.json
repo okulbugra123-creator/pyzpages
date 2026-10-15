@@ -1,0 +1,6 @@
+{
+  "name": "Kozmik Kaçış: 3 Aşamalı Hayatta Kalma Oyunu",
+  "description": "Gittikçe zorlaşan 3 farklı aşamadan oluşan, derleme gerektirmeyen refleks, taktik ve boss savaşı uzay oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
